@@ -195,3 +195,19 @@ main section{
     font-size: 20p;
     font-weight: 700;
 }
+
+.resume-container{
+    display: flex;
+}
+
+.resume-item-description{
+    color: #757575;
+}
+.resume-item-title{
+
+    color:#474747;
+}
+.resume-item-instiute{
+    color:#757575;
+
+}
