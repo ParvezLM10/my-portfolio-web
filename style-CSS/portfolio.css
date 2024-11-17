@@ -206,8 +206,23 @@ main section{
 .resume-item-title{
 
     color:#474747;
+    margin-bottom: 10px;
 }
 .resume-item-instiute{
     color:#757575;
+    margin-top: 0;
+    margin-bottom: 20px;
 
+}
+.resume-container hr{
+    width: 558px;
+    
+    background-color: #D1D1D1 ;
+
+}
+/* button related style */
+.download-cv{
+
+    text-align: center;
+    margin-top: 70px;
 }
